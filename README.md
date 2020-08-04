@@ -1,2 +1,3 @@
-# Css-estudos
- estudos de html e css
+# CSS - Cascading Style Sheets.
+
+### Estudos práticos com CSS.
